@@ -31,8 +31,11 @@ The dataset structure is similar to complaint and service request systems used i
 ## Contents of This Folder
 
 Day-01/
+
 │
+
 ├── Day_01_What_Is_Data_Analytics.ipynb
+
 └── README.md
 
 ### Notebook Highlights
