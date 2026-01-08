@@ -73,14 +73,3 @@ Organizations extract real value only when analytics moves **beyond describing t
 * Use examples to assess your organization’s analytics maturity
 * Apply the framework to operational or governance datasets
 * Use the analytics types as a common language across teams
-
-## Series Context
-
-This is **Day 02** of a structured **30-day analytics journey** covering:
-
-* Foundations of analytics
-* Data handling and preparation
-* Visualization and storytelling
-* Predictive and prescriptive analytics
-* Public-sector and governance use cases
-
