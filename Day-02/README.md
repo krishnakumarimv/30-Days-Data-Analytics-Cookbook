@@ -33,8 +33,6 @@ This dataset closely resembles grievance redressal systems used in **urban gover
 ## Contents of This Folder
 
 Day-02/
-│
-
 ├── Day_02_Types_of_Data_Analytics.ipynb
 
 └── README.md
