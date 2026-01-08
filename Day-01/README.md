@@ -71,13 +71,3 @@ This day establishes the foundation for the remaining 29 days, where analytics p
 * Adapt the analysis logic to your own operational datasets
 * Use insights as discussion material in teams or training
 * Share selectively as part of analytics literacy initiatives
-
-## Series Context
-
-This is **Day 01** of a **30-day structured analytics journey** covering:
-
-* Foundations
-* Data handling
-* Visualization and storytelling
-* Predictive and prescriptive analytics
-* Governance and public-sector use cases
