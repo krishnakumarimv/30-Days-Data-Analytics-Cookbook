@@ -83,6 +83,3 @@ This is **Day 01** of a **30-day structured analytics journey** covering:
 * Visualization and storytelling
 * Predictive and prescriptive analytics
 * Governance and public-sector use cases
-
-Each day builds on the previous one.
-
