@@ -12,6 +12,7 @@ Each day includes:
 - Day 1: What Is Data Analytics & Why It Matters
 - Day 2: Types of Data Analytics
 - Day 3: Data vs Information vs Insights
+- Day 4: Structured vs Unstructured Data
 
 This series is designed for:
 - Governance and public-sector professionals
