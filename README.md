@@ -35,20 +35,6 @@ Chosen because it closely resembles:
 
 Using the same dataset across days demonstrates how **analytics depth evolves**, even when data remains constant.
 
-30-Days-Data-Analytics-Cookbook/
-
-│
-
-├── day-XX/
-
-│
-
-└── README.md
-
-Each `day-XX` folder contains:
-- a topic-specific `README.md`
-- a ready-to-run Jupyter Notebook cookbook
-
 ## Days Published So Far
 
 ### Day 01 – What Is Data Analytics? Why It Matters in Decision-Making  
@@ -95,4 +81,16 @@ Attribution is appreciated.
 
 
 ## Repository Structure
+30-Days-Data-Analytics-Cookbook/
 
+│
+
+├── day-XX/
+
+│
+
+└── README.md
+
+Each `day-XX` folder contains:
+- a topic-specific `README.md`
+- a ready-to-run Jupyter Notebook cookbook
