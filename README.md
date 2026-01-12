@@ -37,12 +37,11 @@ Using the same dataset across days demonstrates how **analytics depth evolves**,
 
 30-Days-Data-Analytics-Cookbook/
 │
-├── day-01/
-├── day-02/
-├── day-03/
-├── day-04/
-├── day-05/
+
+├── day-XX/
+
 │
+
 └── README.md
 
 Each `day-XX` folder contains:
