@@ -36,6 +36,7 @@ Chosen because it closely resembles:
 Using the same dataset across days demonstrates how **analytics depth evolves**, even when data remains constant.
 
 30-Days-Data-Analytics-Cookbook/
+
 │
 
 ├── day-XX/
