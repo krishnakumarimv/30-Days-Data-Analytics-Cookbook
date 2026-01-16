@@ -83,8 +83,3 @@ This day ensures analytics remains **decision-driven, explainable, and trustwort
 * Public-sector and governance professionals
 * Managers responsible for data-driven decisions
 * Practitioners tired of tool-centric analytics narratives
-
-## Next in the Series
-
-**Day 7 – Common Mistakes in Data Analytics**
-Why most analytics initiatives fail despite good data and tools.
