@@ -48,13 +48,13 @@ The purpose is not to rush toward conclusions, but to understand the data before
 
 The accompanying Jupyter Notebook covers practical demonstrations of:
 
-✔ Dataset size and structural inspection
-✔ Category distribution analysis
-✔ Borough-level complaint exploration
-✔ Time-based complaint trend analysis
-✔ Frequency and concentration patterns
-✔ Cross-variable exploration
-✔ Basic visual analytics for early insight generation
+- Dataset size and structural inspection
+- Category distribution analysis
+- Borough-level complaint exploration
+- Time-based complaint trend analysis
+- Frequency and concentration patterns
+- Cross-variable exploration
+- Basic visual analytics for early insight generation
 
 Each step is designed to strengthen analytical reasoning and data interpretation skills.
 
@@ -84,8 +84,9 @@ In each of these domains, meaningful insight depends on careful early exploratio
 
 ## Files Included
 
-Jupyter Notebook – Practical EDA workflow using NYC 311 data
-README.md – Conceptual explanation and analytical framing
+**Jupyter Notebook** – Practical EDA workflow using NYC 311 data
+
+**README.md** – Conceptual explanation and analytical framing
 
 ## Closing Thought
 
