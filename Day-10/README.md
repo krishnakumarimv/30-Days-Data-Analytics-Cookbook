@@ -1,5 +1,5 @@
-Day 10 – Exploratory Data Analysis (EDA)
-How Analysts Discover What Data Can Actually Say
+# Day 10 – Exploratory Data Analysis (EDA)
+## How Analysts Discover What Data Can Actually Say
 
 Many analytics efforts fail not because the data is unavailable, but because the data is not properly explored before interpretation begins.
 
@@ -17,7 +17,7 @@ What questions the data can reasonably answer
 
 This chapter demonstrates practical EDA using the NYC 311 Service Requests dataset, a real-world operational dataset containing citizen service complaints and urban issue reports.
 
-Dataset Context
+## Dataset Context
 
 Dataset: NYC 311 Service Requests (Kaggle)
 Domain: Urban governance / service operations / citizen complaints
@@ -32,7 +32,7 @@ Human-generated reporting behavior
 
 These characteristics make it ideal for demonstrating how analysts move from raw records to structured understanding.
 
-Objectives of This Chapter
+## Objectives of This Chapter
 
 This notebook and analysis aim to illustrate:
 
@@ -44,7 +44,7 @@ How simple charts often reveal important insights before advanced methods are ap
 
 The purpose is not to rush toward conclusions, but to understand the data before formal analysis begins.
 
-Notebook Contents
+## Notebook Contents
 
 The accompanying Jupyter Notebook covers practical demonstrations of:
 
@@ -58,7 +58,7 @@ The accompanying Jupyter Notebook covers practical demonstrations of:
 
 Each step is designed to strengthen analytical reasoning and data interpretation skills.
 
-Key Lessons
+## Key Lessons
 
 Effective EDA helps analysts:
 
@@ -70,7 +70,7 @@ Improve downstream modeling, reporting, and decision-making
 
 EDA is therefore not optional. It is one of the most important stages of analytics.
 
-Practical Relevance
+## Practical Relevance
 
 EDA is essential in many real-world settings:
 
@@ -82,19 +82,19 @@ Customer service analytics
 
 In each of these domains, meaningful insight depends on careful early exploration.
 
-Files Included
+## Files Included
 
 Jupyter Notebook – Practical EDA workflow using NYC 311 data
 README.md – Conceptual explanation and analytical framing
 
-Closing Thought
+## Closing Thought
 
 EDA is where data begins to speak.
 
 It is the stage where analysts move from raw records to structured understanding — and where serious analytics truly begins.
 
-Part of the Series:
+## Part of the Series:
 30 Days of Data Analytics – From Foundations to Decision Intelligence
 
-Repository:
+## Repository:
 https://github.com/krishnakumarimv/30-Days-Data-Analytics-Cookbook
