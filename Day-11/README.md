@@ -75,13 +75,13 @@ The emphasis is on **practical transformation of data**, not theoretical complex
 
 The accompanying Jupyter Notebook demonstrates:
 
-✔ Conversion of raw date fields into usable formats
-✔ Creation of time-based features (year, month, day, hour, weekday)
-✔ Calculation of resolution duration
-✔ Creation of binary flags (open vs closed cases)
-✔ Grouping of rare categories into broader classes
-✔ Creation of weekend vs weekday indicators
-✔ Exploration of newly created features
+* Conversion of raw date fields into usable formats
+* Creation of time-based features (year, month, day, hour, weekday)
+* Calculation of resolution duration
+* Creation of binary flags (open vs closed cases)
+* Grouping of rare categories into broader classes
+* Creation of weekend vs weekday indicators
+* Exploration of newly created features
 
 Each step shows how raw operational data is converted into structured analytical inputs.
 
