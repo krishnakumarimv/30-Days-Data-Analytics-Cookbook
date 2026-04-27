@@ -188,6 +188,7 @@ In all these contexts, analytical quality depends heavily on how data is transfo
 
 # Files Included
 Jupyter Notebook – Practical feature engineering workflow
+
 README.md – Conceptual explanation and analytical framework
 
 ---
@@ -209,5 +210,3 @@ Repository:
 [https://github.com/krishnakumarimv/30-Days-Data-Analytics-Cookbook](https://github.com/krishnakumarimv/30-Days-Data-Analytics-Cookbook)
 
 ---
-
-If you want, next I can prepare **Day 12 – Handling Missing Data** (this is another very high-impact topic, especially for real-world datasets).
