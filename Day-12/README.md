@@ -83,7 +83,7 @@ Removing incomplete records may unintentionally remove:
 
 # Files Included
 
-- `day12_handling_missing_data.py`
+- Jupyter Notebook – `day12_handling_missing_data.ipynb`
 - `README.md`
 
 ---
