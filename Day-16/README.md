@@ -189,7 +189,6 @@ Every analytical report becomes more valuable when information is communicated v
 # Files Included
 
 - **Jupyter Notebook** – Practical Data Visualization using NYC 311
-- **Python Script** – Complete visualization workflow
 - **README.md** – Concepts, visualization principles, and best practices
 
 ---
