@@ -1,4 +1,4 @@
-# Day 30/30 — Final Capstone, Portfolio Building & the Road Ahead
+# Day 30 — Final Capstone, Portfolio Building & the Road Ahead
 
 ## 30-Day Data Analytics Cookbook
 
